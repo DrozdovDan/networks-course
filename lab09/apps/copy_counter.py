@@ -142,8 +142,6 @@ class AppCounterGUI:
 
                 peer_key = (source_ip, source_port)
 
-                print(f'{source_ip}: {msg_type}')
-
                 if msg_type == 'startup':
                     self._send_direct_message('active', source_ip)
 
