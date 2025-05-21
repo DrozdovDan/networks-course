@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Yandex",
+        "internal_ip": "127.0.0.1",
+        "internal_port": 12345,
+        "external_ip": "93.158.134.11",
+        "external_port": 80
+    },
+    {
+        "name": "Rambler",
+        "internal_ip": "127.0.0.1",
+        "internal_port": 123,
+        "external_ip": "81.19.70.3",
+        "external_port": 80
+    },
+    {
+        "name": "Mail",
+        "internal_ip": "127.0.0.1",
+        "internal_port": 500,
+        "external_ip": "217.69.139.201",
+        "external_port": 80
+    }
+]
