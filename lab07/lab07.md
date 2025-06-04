@@ -207,4 +207,5 @@ todo
 более $98$ процентов?
 
 #### Решение
-todo
+$\dfrac{WindowSize*\dfrac{L}{R}}{RTT+\dfrac{L}{R}} \geq 0.98 \Rightarrow WindowSize \geq 
+\lceil 0.98 * (1 + \dfrac{R * RTT}{L}) \rceil = 2451$
